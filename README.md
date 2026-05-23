@@ -14,19 +14,19 @@ The main goal is to classify and localize clusters of different shapes and confi
 ## Model Training
 
 This project provides a training script based on the YOLOv8 framework.
-
 It is used to train an object detection model on a custom dataset of colloidal cluster structures.
-
 The script allows configuration of key training parameters such as epochs, batch size, and image resolution.
 
 ---
 
-## Dataset
+## Datasets
 
-The dataset consists of labeled images of colloidal clusters in different configurations: circles, cuboids, rods and ellipsoids.  
-Due to its size, it is stored externally and is not included in this repository.
+This work utilizes four separate datasets, each containing labeled microscopy images of colloidal clusters with distinct structural configurations: circular, cuboid, rod-like, and ellipsoidal formations.  
+Due to their size, the datasets are stored externally and are not included in this repository.
 
 You can download it here:
-
-
+## cuboids: https://drive.google.com/file/d/1aP5jiKuuNghNN1M6nd-5ky8SZacmT4rc/view?usp=sharing
+## rods: https://drive.google.com/file/d/15dOkPKKClNxBEnkCdDIcfRJrOehqKGdR/view?usp=sharing
+## ellipsoids: https://drive.google.com/file/d/1Aj__Rjjik9Ty26jhvT78bOLXUbphSdVz/view?usp=sharing
+## circles: https://drive.google.com/file/d/17P_sTEg-JyOtLliLLZP5BiL57xEW3AO6/view?usp=sharing
 ---
