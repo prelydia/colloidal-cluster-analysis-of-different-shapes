@@ -21,7 +21,10 @@ The script allows configuration of key training parameters such as epochs, batch
 
 ## Datasets
 ```
-Dataset is released under Creative Commons Attribution 4.0 International (CC BY 4.0)
+All datasets in this repository are released under
+Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+License: https://creativecommons.org/licenses/by/4.0/
 ```
 This work utilizes four separate datasets, each containing labeled microscopy images of colloidal clusters with distinct structural configurations: circular, cuboid, rod-like, and ellipsoidal formations.  
 Due to their size, the datasets are stored externally and are not included in this repository.
